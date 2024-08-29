@@ -75,7 +75,7 @@ This CocoaPods Library helps you to do the payment
   # spec.visionos.deployment_target = "1.0"
 
 spec.ios.deployment_target = "17.2"
-spec.ios.swift_version = "5.0"
+spec.swift_version = "5.0"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
