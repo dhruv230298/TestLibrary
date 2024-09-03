@@ -53,10 +53,7 @@ This CocoaPods Library helps you to do the payment
   #  profile URL.
   #
 
-  spec.author             = { "Hiren Bharodiya" => "hiren.bharodia@gmail.com" }
-  # Or just: spec.author    = "HirenBharodiya"
-  # spec.authors            = { "HirenBharodiya" => "hiren.bharodia@gmail.com" }
-  # spec.social_media_url   = "https://twitter.com/HirenBharodiya"
+  spec.author             = { "Dhruv Lakdawala" => "dhruv.l.easternts@gmail.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
