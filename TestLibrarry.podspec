@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TestLibrarry"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "A TestLibrarry written in swift"
 
   # This description is used to generate tags and improve search results.
@@ -53,7 +53,7 @@ This CocoaPods Library helps you to do the payment
   #  profile URL.
   #
 
-  spec.author             = { "HirenBharodiya" => "hiren.bharodia@gmail.com" }
+  spec.author             = { "Hiren Bharodiya" => "hiren.bharodia@gmail.com" }
   # Or just: spec.author    = "HirenBharodiya"
   # spec.authors            = { "HirenBharodiya" => "hiren.bharodia@gmail.com" }
   # spec.social_media_url   = "https://twitter.com/HirenBharodiya"
@@ -84,7 +84,7 @@ spec.swift_version = "5.0"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/dhruv230298/TestLibrary", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/dhruv230298/TestLibrary.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
