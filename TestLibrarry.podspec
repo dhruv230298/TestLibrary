@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TestLibrarry"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A TestLibrarry written in swift"
 
   # This description is used to generate tags and improve search results.
