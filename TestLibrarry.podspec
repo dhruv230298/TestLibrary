@@ -70,8 +70,7 @@ This CocoaPods Library helps you to do the payment
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
   # spec.visionos.deployment_target = "1.0"
-
-spec.ios.deployment_target = "17.2"
+spec.platform = :ios, "12.0"
 spec.swift_version = "5.0"
 
 
@@ -92,7 +91,7 @@ spec.swift_version = "5.0"
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "TestLibrarry/**/*.{h,m,swift}"
+  spec.source_files  = "TestLibrarry/**/*.{swift,h,m}"
 
   # spec.public_header_files = "Classes/**/*.h"
 
