@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TestLibrarry"
-  spec.version      = "1.0.6"
+  spec.version      = "1.0.7"
   spec.ios.deployment_target = "13.0"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.summary      = "A TestLibrarry written in swift"
